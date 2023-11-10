@@ -5,6 +5,7 @@
 </br>
 My journey began with a love for all things tech that led to experiences that honed my problem-solving skills. Today, web development has become one of the things I enjoy doing the most! Where I learn and implement technologies to create visually stunning and functional designs.
 </br>
+</br>
 I primarily focus on front-end tasks, but I also enjoy a range of areas, from design to backend, tinkering with different aspects of web development.
 </br>
 </br>
@@ -12,12 +13,20 @@ I primarily focus on front-end tasks, but I also enjoy a range of areas, from de
 <h2> 🛠 Some tools I use </h2>
 </br>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![REACT](https://img.shields.io/badge/REACT-?style=for-the-badge&logo=react&logoColor=66dbfb#212121)
+![WEBPACK](https://img.shields.io/badge/WEBPACK-?style=for-the-badge&logo=Webpack&logoColor=99d5f9#212121)
+![NODE](https://img.shields.io/badge/NODE-?style=for-the-badge&logo=node.js&logoColor=90c853#212121)
+![NPM](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=cd3e3d)
+![Jest](https://img.shields.io/badge/Jest-413d3e?style=for-the-badge&logo=Jest&logoColor=%23C21325)
 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-413d3e?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-3fc0ff?style=for-the-badge&logo=CSS3&logoColor=%231572B6)
+
+![Git](https://img.shields.io/badge/GIT-?style=for-the-badge&logo=Git&logoColor=e84e31#212121)
+![GITHUB](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=%23181717)
+![REST API](https://img.shields.io/badge/REST_API-09b7e7?style=for-the-badge)
+![esLINT](https://img.shields.io/badge/esLINT-0d0d1f?style=for-the-badge&logo=ESLint&logoColor=%234B32C3)
 
 
 <!--
