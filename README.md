@@ -25,6 +25,7 @@ I primarily focus on front-end tasks, but I also enjoy a range of areas, from de
 
 ![Git](https://img.shields.io/badge/Git-0d2034?style=for-the-badge&logo=Git&logoColor=%23F05032)
 ![GITHUB](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=%23181717)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=%23F24E1E)
 ![REST API](https://img.shields.io/badge/REST_API-09b7e7?style=for-the-badge)
 ![esLINT](https://img.shields.io/badge/esLINT-0d0d1f?style=for-the-badge&logo=ESLint&logoColor=%234B32C3)
 
